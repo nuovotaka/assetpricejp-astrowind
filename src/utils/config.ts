@@ -118,7 +118,7 @@ const getMetadata = () => {
 
 const getI18N = () => {
   const _default = {
-    language: 'en',
+    language: 'ja',
     textDirection: 'ltr',
   };
 
@@ -129,7 +129,7 @@ const getI18N = () => {
       year: 'numeric',
       month: 'short',
       day: 'numeric',
-      timeZone: 'UTC',
+      timeZone: 'Asia/Tokyo',
     }),
   }) as I18NConfig;
 };

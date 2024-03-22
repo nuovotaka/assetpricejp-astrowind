@@ -2,11 +2,11 @@ import { I18N } from '~/utils/config';
 
 const formatter: Intl.DateTimeFormat =
   I18N?.dateFormatter ||
-  new Intl.DateTimeFormat('en', {
+  new Intl.DateTimeFormat('ja', {
     year: 'numeric',
     month: 'short',
     day: 'numeric',
-    timeZone: 'UTC',
+    timeZone: 'Asia/Tokyo',
   });
 
 export const getFormattedDate = (date: Date): string => (date ? formatter.format(date) : '');
