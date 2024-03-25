@@ -1,9 +1,9 @@
 ---
 publishDate: 2024-03-23T18:00:00+09:00
 author: Takahiro Natsume
-title: About ASSETPRICEJP
-excerpt: This add-on inserts formulas into spreadsheet cells to obtain prices of Japanese stocks and mutual funds.
-You can also use the function (ASSETPRICEJP) in the add-on to get the prices.
+title: "About ASSETPRICEJP"
+excerpt: "This add-on inserts formulas into spreadsheet cells to obtain prices of Japanese stocks and mutual funds.
+You can also use the function (ASSETPRICEJP) in the add-on to get the prices."
 image: ~/assets/images/spreadsheets-sample.png
 category: Document
 tags:
