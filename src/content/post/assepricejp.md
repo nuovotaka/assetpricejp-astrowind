@@ -2,7 +2,8 @@
 publishDate: 2024-03-23T18:00:00+09:00
 author: Takahiro Natsume
 title: About ASSETPRICEJP
-excerpt: This add-on provides google apps script to retrieve prices of Japanese stocks and mutual funds.
+excerpt: This add-on inserts formulas into spreadsheet cells to obtain prices of Japanese stocks and mutual funds.
+You can also use the function (ASSETPRICEJP) in the add-on to get the prices.
 image: ~/assets/images/spreadsheets-sample.png
 category: Document
 tags:
@@ -10,6 +11,9 @@ tags:
 # metadata:
 #   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
+
+このアドオンは、表計算のセルに数式を挿入して、日本の株式や投資信託の価格を取得します。
+アドオン内の関数(ASSETPRICEJP)を使用して価格を取得することもできます。
 
 # ASSETPRICEJP 使い方
 
