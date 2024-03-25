@@ -11,7 +11,7 @@ metadata:
   title:
     default: AssetPriceJP
     template: '%s — AssetPriceJP'
-  description: "\U0001f984 This add-on provides google apps script to retrieve prices of Japanese stocks and mutual funds."
+  description: "\U0001f984 This add-on inserts formulas into spreadsheet cells to obtain prices of Japanese stocks and mutual funds."
   robots:
     index: true
     follow: true
