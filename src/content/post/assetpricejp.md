@@ -29,19 +29,15 @@ Add-on をインストールします。
 日本株の株価の場合は４桁、投資信託の場合は１２桁のISINコードを入力ください。
 ![HOW TO USE 1](~/assets/images/howtouse-1.png)
 
-- ASSETPRICEJP > サイドバーの表示
+- ASSETPRICEJP > サイドバーの表示し、セルを選択するコードを４桁または、１２桁入力する
 
 ![HOW TO USE 2](~/assets/images/howtouse-2.png)
 
-- セルを選択するコードを４桁または、１２桁入力する
+- 例、9984のソフトバンクを入力してみます。
 
 ![HOW TO USE 3](~/assets/images/howtouse-3.png)
 
-- 例、9984のソフトバンクを入力してみます。
-
-![HOW TO USE 4](~/assets/images/howtouse-4.png)
-
-- 2024/03/22 終値が表示されました。
+- 現在の価格が表示されました。（ディレイ）
 
 ## 直接、式をセルに代入する方法
 
