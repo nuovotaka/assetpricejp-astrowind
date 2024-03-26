@@ -29,7 +29,7 @@ Add-on をインストールします。
 日本株の株価の場合は４桁、投資信託の場合は１２桁のISINコードを入力ください。
 ![HOW TO USE 1](~/assets/images/howtouse-1.png)
 
-- ASSETPRICEJP > サイドバーの表示し、セルを選択するコードを４桁または、１２桁入力する
+- ASSETPRICEJP(APJ) > サイドバーの表示し、セルを選択するコードを４桁または、１２桁入力する
 
 ![HOW TO USE 2](~/assets/images/howtouse-2.png)
 
